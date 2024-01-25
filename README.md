@@ -1,4 +1,4 @@
-# Shopping Cart
+# Shopping Cart versionado
 
 This project was developed as a practice with Javascript,Axios, React, React-icons, SweetAlert,
 css.
